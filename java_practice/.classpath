@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-17">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry excluding="basic/variable.java|basic/variableReal.java|basic/practice.java|basic/Method.java|basic/Spider.java|basic/SpiderMan.java|basic/MorePerson.java|basic/Person.java|basic/Car.java|basic/Disel.java|basic/Gasoline.java|basic/Casting.java|basic/Fightable.java|basic/Heroable.java|basic/IronMan.java|basic/Main.java|basic/Transformable.java|basic/|interfacePrc/|interfacePrc2/|CollectionFramework/ListTest.java|CollectionFramework/SetTest.java|CollectionFramework/MapTest.java" kind="src" path="src"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
